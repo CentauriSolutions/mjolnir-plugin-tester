@@ -1,4 +1,4 @@
-# Mjolnir PLugin Tester
+# Mjolnir Plugin Tester
 
 # Installation
 

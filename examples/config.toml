@@ -1,0 +1,8 @@
+[plugin]
+path="~/mjolnir/plugins/slack"
+
+args = [
+    "botname=mjolnir",
+    "channel=#general",
+    "webhook=https://hooks.slack.com/services/YOUR/WEBHOOK/URL",
+]
